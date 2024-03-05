@@ -54,7 +54,7 @@ Additionally, more information on how lead generation, brand awareness and cost 
 • Images that are nested within the HTML and CSS to be presented on screen.
 
 ## Contributions
-• Contribuation is not welcome and or accepted.
+• Contribuation are not welcome and or accepted.
 • This project is a graded assignment that will reflect my progress within the first 1 to 2 weeks of class.
 • Any and all changes will not benifit the creator of this repository and will be removed immediately.
 
