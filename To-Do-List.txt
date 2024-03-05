@@ -1,0 +1,24 @@
+# Notes from TA's:
+- Organize by: root element - elements <a <div for styling - classes - Id's - then media queries
+
+# To-do list:
+
+. Fix the broken link at the top
+    -add reference that matches other two functioning links
+
+. Add Semantic Elements to index.html
+    -refactor labels and divs, organize better.
+    -have css reflect changes, lavels and organization.
+
+. Organize css style sheet
+    -order the styling sections to match the website flow top down
+    -there shouldn't be sections that affect the middle images at the bottom
+    after the aside elements near the footer...etc...
+
+. Check css for un-needed code.
+    -There may be sections that are redundant, verify all are needed.
+
+. Add Alt Elements for accessiblities
+    -Add Accessibility Features
+    -If possible, download and use a Accessibility browser type or 
+    software to confirm all additions are functioning.
