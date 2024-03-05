@@ -8,7 +8,7 @@
 
 . Add Semantic Elements to index.html
     -refactor labels and divs, organize better.
-    -have css reflect changes, lavels and organization.
+    -have css reflect changes, labels and organization.
 
 . Organize css style sheet
     -order the styling sections to match the website flow top down
