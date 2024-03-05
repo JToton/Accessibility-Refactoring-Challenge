@@ -88,6 +88,11 @@ Additionally, more information on how lead generation, brand awareness and cost 
 • HTML Semantic Elements. "HTML semantic elements". (n.d.). 
   "https://www.w3schools.com/html/html5_semantic_elements.asp".
 
+•  OpenAI. (2023). ChatGPT (Mar 4, 2024 version) [Large language model]. 
+  "https://chat.openai.com/chat".
+  
+• NOTE: ChatGPT was only used to assist in creating dialog for the README file.  The OpenAI software was not used to assist in any code generation, HTML edits, CSS edits or otherwise any of the assets located within the repository other than this README specifically.
+
 • All other links, sources and information gained and used within the project were found or otherwise located within the above sources.  The classwork, modules, TA's, as well a the instructor provided a multitude of links within the assignment itself as well as within class demonstrations and our communication through slack and or discord.
 
   
