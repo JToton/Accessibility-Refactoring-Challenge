@@ -60,7 +60,6 @@ Additionally, more information on how lead generation, brand awareness and cost 
 
 ## Features 
 
-(subject to future improvment and change).
 • index.html file that houses the code for the project and links together all assets used within it.
 
 • css file used to dictate the style of the webpage.
