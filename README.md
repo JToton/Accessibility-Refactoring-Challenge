@@ -42,6 +42,7 @@ Additionally, more information on how lead generation, brand awareness and cost 
 
 ## License
 • This project has a standard MIT license.  Source: https://choosealicense.com/licenses/mit/
+• This license seemed appropriate given that it will be accessed, cloned and assessed by any and all who may be performing a review, assessment or grading of the project and my work herewithin.
 
 
 ## Badges
@@ -56,7 +57,8 @@ Additionally, more information on how lead generation, brand awareness and cost 
 ## Contributions
 • Contribuation are not welcome and or accepted.
 • This project is a graded assignment that will reflect my progress within the first 1 to 2 weeks of class.
-• Any and all changes will not benifit the creator of this repository and will be removed immediately.
+• However, it will be accessed, cloned and accessed by any and all who may be performing a review, assessment or grading of the project and my work herewithin.
+• That being said, any of the aforementioned representatives of the school or private company that are responsible for accessing, grading or reviewing the project have expressed permission to edit, add notes, add comments or perform any work necessary to complete this task.
 
 ## Tests
 • Testing has not been included within this project as of yet.  I look forward to learning more about this process, given my QA experience, and adding it to the project in the future.
