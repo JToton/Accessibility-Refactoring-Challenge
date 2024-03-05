@@ -11,7 +11,7 @@ This assignment also provided an opportunity to learn about how creating a websi
 This allows the website to recieve more traffic which can drastically assist in growing a business, generating income or attracted other potential partners.
 
 
-## Table of Contents (Optional)
+## Table of Contents:
 
 - [Installation](#installation)
 - [Usage](#usage)
