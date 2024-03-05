@@ -88,4 +88,6 @@ Additionally, more information on how lead generation, brand awareness and cost 
 • HTML Semantic Elements. "HTML semantic elements". (n.d.). 
   "https://www.w3schools.com/html/html5_semantic_elements.asp".
 
+• All other links, sources and information gained and used within the project were found or otherwise located within the above to sources.  The classwork, modules, TA's, as well a the instructor provided a multitude of links within the assignment itself as well as within class demonstrations and our communication through slack and or discord.
+
   
