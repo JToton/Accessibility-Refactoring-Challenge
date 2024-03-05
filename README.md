@@ -85,7 +85,7 @@ Additionally, more information on how lead generation, brand awareness and cost 
 • Bootcamp: UofU-VIRT-FSF-PT-02-2024-U-LOLC-MTTH, 2024. "Module 1 Challenge"
   "https://bootcampspot.instructure.com/courses/5301/assignments/74767?module_item_id=1209851".
   
-• HTML Semantic Elements. "HTML semantic elements". (n.d.). 
+• W3Schools. "HTML semantic elements". (n.d.). 
   "https://www.w3schools.com/html/html5_semantic_elements.asp".
 
 •  OpenAI. (2023). ChatGPT (Mar 4, 2024 version) [Large language model]. 
