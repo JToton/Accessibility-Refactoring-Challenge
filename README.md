@@ -82,17 +82,41 @@ Additionally, more information on how lead generation, brand awareness and cost 
 
 ## Citations
 
-• Bootcamp: UofU-VIRT-FSF-PT-02-2024-U-LOLC-MTTH, 2024. "Module 1 Challenge"
-  "https://bootcampspot.instructure.com/courses/5301/assignments/74767?module_item_id=1209851".
-  
-• W3Schools. "HTML semantic elements". (n.d.). 
-  "https://www.w3schools.com/html/html5_semantic_elements.asp".
+• Agile Alliance. (2023, October 18). Agile Manifesto for Software Development | Agile Alliance. Agile Alliance |. https://www.agilealliance.org/agile101/the-agile-manifesto/
 
-•  OpenAI. (2023). ChatGPT (Mar 4, 2024 version) [Large language model]. 
-  "https://chat.openai.com/chat".
-  
-• NOTE: ChatGPT was only used to assist in creating dialog for the README file.  The OpenAI software was not used to assist in any code generation, HTML edits, CSS edits or otherwise any of the assets located within the repository other than this README specifically.
+• CSS Property: list-style-type | HTML Dog. (n.d.). https://www.htmldog.com/references/css/properties/list-style-type/ 
 
-• All other links, sources and information gained and used within the project were found or otherwise located within the above sources.  The classwork, modules, TA's, as well a the instructor provided a multitude of links within the assignment itself as well as within class demonstrations and our communication through slack and or discord.
+• GitHub: Let’s build from here. (n.d.). GitHub. https://github.com/ 
+
+• HTML color codes. (n.d.). HTML Color Codes. https://htmlcolorcodes.com/ 
+
+• HTML Semantic elements. (n.d.). https://www.w3schools.com/html/html5_semantic_elements.asp 
+
+• HTML summary Tag. (n.d.). https://www.w3schools.com/tags/tag_summary.asp Login. (n.d.). https://bootcampspot.instructure.com/courses/5301/assignments/74767?module_item_id=1209851
+
+• Nomensa. (2018, August 23). Multi-lingual website accessibility — 7 tips and techniques. Medium. https://medium.com/@Nomensa/multi-lingual-website-accessibility-7-tips-and- 
+  techniques-f8c95a5121ac 
+
+• Nomensa. (2023a, April 26). Humanising Technology blog - UX, web accessibility and design | Nomensa. Nomensa. https://www.nomensa.com/blog/ Nomensa. (2023b, June 6). What is a 
+  screen reader? Nomensa. https://www.nomensa.com/blog/what-screen-reader/ 
+
+• OpenAI. (2023). ChatGPT (Mar 14 version) [Large Language model]. (n.d.). ChatGPT (Mar 14 Version) [Large Language Model]. https://chat.openai.com/chat 
+
+  -NOTE: ChatGPT was only used to assist in creating dialog for the README file.  The OpenAI software was not used to assist in any code generation, HTML edits, CSS edits or 
+   otherwise any of the assets located within the repository other than this README specifically. The software was used to assist in creating a professional README.md file that 
+   would meet standards within the industry (to the best of my knowledge).  Additionally, school resources, linked within the citations already, were used in combination to flush 
+   out the design.
+
+• Scientific, F. (n.d.). Downloads: JAWS. https://support.freedomscientific.com/Downloads/JAWS 
+
+• GitLab. (n.d.). https://git.bootcampcontent.com/University-of-Utah/UofU-VIRT-FSF-PT-02-2024-U-LOLC 
+
+• Specificity - CSS: Cascading Style Sheets | MDN. (2023, November 22). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity 
+
+• What makes up a web development project? (n.d.). The Full-Stack Blog. https://coding-boot-camp.github.io/full-stack/web-development/web-dev-project
+  
+• All other links, sources and information gained and used within the project were found or otherwise located within the above sources(sublinks within the above links). The 
+  classwork, modules, TA's, as well as the instructor provided a multitude of links within the assignment itself as well as within class demonstrations and our communication 
+  through slack and or discord.
 
   
