@@ -10,6 +10,9 @@ The presented tasks also included adding semantic HTML elements, and improving o
 This assignment also provided an opportunity to learn about how creating a website that is accessible can impact a business. "Accessible sites are better positioned in search engines like Google"(Module 1 Challenge). 
 This allows the website to recieve more traffic which can drastically assist in growing a business, generating income or attracted other potential partners.
 
+## Link to Deployed Application.
+
+• [https://jtoton.github.io/Accessibility-Refactoring-Challenge/]
 
 ## Table of Contents:
 
