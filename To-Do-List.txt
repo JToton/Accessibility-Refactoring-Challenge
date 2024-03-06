@@ -22,3 +22,7 @@
     -Add Accessibility Features
     -If possible, download and use a Accessibility browser type or 
     software to confirm all additions are functioning.
+
+
+
+-Put back SEO annoying color <---------
