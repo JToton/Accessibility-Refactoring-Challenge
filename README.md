@@ -56,7 +56,7 @@ Additionally, more information on how lead generation, brand awareness and cost 
 
 ## Badges
 
-• N/A at this time.
+• [Screenshot:](https://github.com/JToton/Accessibility-Refactoring-Challenge/issues/1#issue-2172367634)
 
 ## Features 
 
