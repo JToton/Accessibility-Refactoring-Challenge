@@ -19,6 +19,11 @@ body {
     color: #ffffff;
 }
 
+/*Color for SEO "Search Engine Optimization"*/
+.header h1 .seo {
+    color: #d9dcd6;
+}
+
 /*Top Right Nav Links
     Displays in line with above css block*/
 .header h1 {
@@ -85,25 +90,7 @@ p {
 
 /*"Content" Styling
     Container Size, font, & Colors */
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
+.search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -137,7 +124,8 @@ p {
 }
 
 /*Subtext Color and Space between next section*/
-.benefit-lead,.benefit-brand-,.benefit-cost {
+
+.benefit-lead, .benefit-brand, .benefit-cost{
     margin-bottom: 32px;
     color: #ffffff;
 }
