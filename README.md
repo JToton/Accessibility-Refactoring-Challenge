@@ -20,6 +20,7 @@ This allows the website to recieve more traffic which can drastically assist in 
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Mockup](#Mockup)
 - [Badges](#Badges)
 - [Features](#Features)
 - [Contributions](#Contributions)
@@ -59,8 +60,8 @@ Additionally, more information on how lead generation, brand awareness and cost 
 
 ## Badges
 
-## Actual Image
-• ![Alt text](assets/images/Accessibility-Refactoring-Challenge-Image.png)
+## Mockup
+![Alt text](assets/images/Accessibility-Refactoring-Challenge-Image.png)
 
 • [Screenshot:](https://github.com/JToton/Accessibility-Refactoring-Challenge/issues/1#issue-2172367634)
 
